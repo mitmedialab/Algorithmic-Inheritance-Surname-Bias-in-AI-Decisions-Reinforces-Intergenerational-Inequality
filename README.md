@@ -1,4 +1,4 @@
-# AI Biases Towards Rich and Powerful Surnames
+# Algorithmic Inheritance: Surname Bias in AI Decisions Reinforces Intergenerational Inequality
 
 ## Authors
 - Pat Pataranutaporn (MIT)
